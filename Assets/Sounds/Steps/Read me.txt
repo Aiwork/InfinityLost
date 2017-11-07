@@ -1,0 +1,8 @@
+Basically there are 2 options from here, Stereo or Mono. 
+Perfectly, you should code an algorythm that will alternate between left and right step sounds, each time picking a random sound either from left or right
+(while keeping the order). If more sounds required for randomness, no problem.
+
+Second option, to conserve time and space, is just fuck it and use the 6 sounds in MONO folder, basically, more random, but doesn't sound like it's alternating between
+left or right.
+
+However, if you tell me the engine can automatically mix the steps sound as if it's alternating between right or left, then i'll be making only Monos.
